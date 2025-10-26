@@ -248,7 +248,7 @@ a:active {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url("/images/hero/hero-bg-mobile@1x.jpg ");
+    url("../images/hero/hero-bg-mobile@1x.jpg ");
 
   max-width: 320px;
   color: #ffffff;
@@ -268,7 +268,7 @@ a:active {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url("/images/hero/hero-bg-mobile@2x.jpg ");
+      url("../images/hero/hero-bg-mobile@2x.jpg ");
   }
 }
 
@@ -319,7 +319,7 @@ a:active {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url("/images/hero/hero-bg-tablet@1x.jpg ");
+      url("../images/hero/hero-bg-tablet@1x.jpg ");
 
     max-width: 768px;
     padding-top: 112px;
@@ -332,7 +332,7 @@ a:active {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url("/images/hero/hero-bg-tablet@2x.jpg ");
+        url("../images/hero/hero-bg-tablet@2x.jpg");
     }
   }
 
@@ -350,7 +350,7 @@ a:active {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url("/images/hero/hero-bg-desk@1x.jpg ");
+      url("../images/hero/hero-bg-desk@1x.jpg 1x ");
 
     max-width: 1440px;
     padding-top: 188px;
@@ -363,7 +363,7 @@ a:active {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url("/images/hero/hero-bg-desk@2x.jpg ");
+        url("../images/hero/hero-bg-desk@2x.jpg 2x");
     }
   }
 }
