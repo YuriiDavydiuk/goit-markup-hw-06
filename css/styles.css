@@ -451,14 +451,14 @@ a:active {
       height: 112px;
     }
 
-    .values-text {
-      font-weight: 400;
-    }
-
     .values-subtitle {
       font-weight: 500;
       font-size: 20px;
       line-height: 1.2;
+    }
+
+    .values-text {
+      font-weight: 400;
     }
   }
 }
