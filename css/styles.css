@@ -51,6 +51,7 @@ img {
   max-width: 100%;
   height: auto;
 }
+
 /* #endregion */
 
 /* #region common */
@@ -102,6 +103,7 @@ a:active {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+
 /* #endregion */
 
 /* #region header */
@@ -128,6 +130,7 @@ a:active {
   display: block;
   padding: 16px 0;
 }
+
 .header-logo-text {
   color: #2e2f42;
 }
@@ -350,7 +353,7 @@ a:active {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url("../images/hero/hero-bg-desk@1x.jpg 1x ");
+      url("../images/hero/hero-bg-desk@1x.jpg");
 
     max-width: 1440px;
     padding-top: 188px;
@@ -363,7 +366,7 @@ a:active {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url("../images/hero/hero-bg-desk@2x.jpg 2x");
+        url("../images/hero/hero-bg-desk@2x.jpg");
     }
   }
 }
@@ -622,6 +625,7 @@ a:active {
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 }
+
 .portfolio-item:hover,
 .portfolio-item:focus {
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
@@ -670,6 +674,7 @@ a:active {
     max-width: calc((100% - 24px * 2) / 3);
   }
 }
+
 /* #endregion */
 
 /* #region footer */
@@ -866,6 +871,7 @@ a:active {
     margin-left: auto;
   }
 }
+
 /* #endregion */
 
 /* #region mobile menu */
@@ -1216,6 +1222,7 @@ a:active {
   margin: 0 auto;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 .modal-submit-button:hover,
 .modal-submit-button:focus,
 .modal-submit-button:active {
