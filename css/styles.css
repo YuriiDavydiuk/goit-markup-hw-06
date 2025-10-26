@@ -596,6 +596,7 @@ a:active {
 }
 
 .portfolio-item {
+  outline: 1px red;
   max-width: 288px;
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -667,6 +668,7 @@ a:active {
   }
 
   .portfolio-list {
+    align-items: baseline;
     gap: 48px 24px;
   }
 
